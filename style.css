@@ -1,0 +1,29 @@
+.container {
+  border: 3px solid rgb(24, 26, 24);
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  position: static;
+}
+
+#main-image {
+  background-color: rgb(134, 121, 43);
+  width: 125px;
+  border: 20px solid rgb(20, 20, 19);
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#text-id {
+  font-family:monospace;
+  font-size:150%;
+  color:rgb(0, 0, 0);
+}
+
+#text-id {
+  font-family:monospace;
+  font-size:130%;
+  color:rgb(177, 27, 52);
+}
